@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://IceBerg:op0987654321@cluster1-fkhf3.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "ice ice baby",
+  "baseURL": "http://localhost:5000"
+}
